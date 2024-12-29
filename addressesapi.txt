@@ -1,2 +1,11 @@
-34.89.91.99:443#英国
-35.204.231.100:443#格罗宁根 荷兰
+IP地址	端口	回源端口	TLS	数据中心	地区	国家	城市	TCP延迟(ms)	速度(MB/s)
+18.222.219.49	443	443	TRUE	CMH	North America	US	Columbus	248	7.07
+35.182.65.218	443	443	TRUE	YUL	North America	CA	Montréal	255	7.07
+54.184.54.145	443	443	TRUE	PDX	North America	US	Portland	300	7.07
+15.223.5.84	443	443	TRUE	YUL	North America	CA	Montréal	291	7.07
+3.86.30.141	443	443	TRUE	IAD	North America	US	Ashburn	472	7.06
+3.144.17.183	443	443	TRUE	YYZ	North America	CA	Toronto	398	7.06
+3.96.144.150	443	443	TRUE	YUL	North America	CA	Montréal	250	7.06
+3.97.6.107	443	443	TRUE	YUL	North America	CA	Montréal	296	7.05
+52.60.49.68	443	443	TRUE	YUL	North America	CA	Montréal	248	7.05
+3.147.70.15	443	443	TRUE	YYZ	North America	CA	Toronto	235	7.05
